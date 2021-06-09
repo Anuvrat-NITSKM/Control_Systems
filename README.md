@@ -10,4 +10,4 @@ Resources for Control Systems
   - [Control Systems - G Centrick GATE- EE,EC,IN](https://www.youtube.com/playlist?list=PLhuphP2dsOLjdkgkD_uqsmmj37X0mLHnW)
   
 - Books
-  - [Modern control engineering by Katsuhiko Ogata](http://www.elcom-hu.com/Mechatronics/Advanced%20Control/4th%20Ed%20Ogata.pdf)
+  - Modern control engineering by Katsuhiko Ogata
